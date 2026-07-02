@@ -1,5 +1,7 @@
 # 📊 Employee Database Data Extraction
 
+**A Production-Grade MySQL Project Demonstrating Employee Database Management with Complete Standard Data Query Language (DQL) statements.**
+
 ---
 
 ## 📌 Overview
